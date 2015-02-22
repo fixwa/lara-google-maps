@@ -1,12 +1,12 @@
 {
-  "name": "vendor_name/package_name",
-  "description": "description_text",
+  "name": "fixwa/lara-google-maps",
+  "description": "A simple website built with Laravel to display a Google Maps with some points.",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
-      "name": "author's name",
-      "email": "email@example.com"
+      "name": "Pablo Fixwa",
+      "email": "fixwah@gmail.com"
     }
   ],
   "require": {
